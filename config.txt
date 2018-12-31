@@ -1,6 +1,6 @@
 token=NTI5NDAwMzg5ODMzODUwODgy.DwwXSg.NoPKe6k0hibdgyVtLmlE0PMIA7Q
 owner=529400389833850882
-prefix=1play 
+prefix=1 
 game=Cold|1play
 stayinchannel=true
 songinstatus=false
