@@ -1,4 +1,4 @@
-token=NTI5NDAwMzg5ODMzODUwODgy.DwwXSg.NoPKe6k0hibdgyVtLmlE0PMIA7Q
+token=NTI5NDAwMzg5ODMzODUwODgy.Dwzpyw.EIoU4IROpo_vWG-FnPNepSrgiPs
 owner=507997411101114379
 prefix=1 
 game=Cold|1play
