@@ -1,4 +1,4 @@
-token=NTI5NDAwMzg5ODMzODUwODgy.Dwzpyw.EIoU4IROpo_vWG-FnPNepSrgiPs
+token=NTI5NDAwMzg5ODMzODUwODgy.D1tKQA.oEHlM_YcDauzUikXpwOATSHe_ZU
 owner=507997411101114379
 prefix=2 
 game=Present | 2play 
