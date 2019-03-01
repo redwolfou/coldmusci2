@@ -1,6 +1,6 @@
 token=NTI5NDAwMzg5ODMzODUwODgy.Dwzpyw.EIoU4IROpo_vWG-FnPNepSrgiPs
-owner=522764310313697282
-prefix=5 
-game=,Outside 
+owner=507997411101114379
+prefix=2 
+game=Present | 2play 
 stayinchannel=true
 songinstatus=false
